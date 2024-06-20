@@ -1,5 +1,3 @@
-#Facad1ng: The Ultimate URL Masking Tool
-
 import pyshorteners
 from urllib.parse import urlparse
 import re
